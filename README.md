@@ -1,4 +1,4 @@
-# me
+# About Me
 <h3 align="center">A Security Engineer and passionate Security Awareness Specialist from Canada</h3>
 
 - 🌱 I’m currently learning **DevSecOps, Web Application Pentesting and AI Governance**
